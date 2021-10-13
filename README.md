@@ -1,16 +1,45 @@
-### Hi there 👋
 
-<!--
-**NgoQuyTruong/NgoQuyTruong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello 👋, I'm [>_QuyTruong](https://www.facebook.com/NgoQuyTruongg/) 
 
-Here are some ideas to get you started:
+<br/>
+<a href="https://www.facebook.com/NgoQuyTruongg/">
+  <img align="left" alt="guilyx's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+</a>
+<a href="https://www.instagram.com/nqoquytruonq/">
+  <img align="left" alt="guilyx's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+</a>
+<a href="#">
+  <img align="left" alt="guilyx's Codingames" width="30px" src="https://image.flaticon.com/icons/svg/2010/2010522.svg" />
+</a> <br /> <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Graduate Student 👨🏽‍💼 [@HUSC](http://husc.hueuni.edu.vn/)** in Hue University of Science. <br />
+I'm a **Web Developer**  <br />
+i have more than 1 year experience working with ruby on rails.
+I'm love league of legend. I've been playing League of Legends for seven years<br />
+
+  <img align="right" alt="GIF" src="https://c.tenor.com/kFNtXOJGyooAAAAC/azura-bonk-azura.gif" width="250px"/>
+  
+**Miscellaneous:**
+
+  - 🤹🏽 Fields I enjoy the most : 
+  - 🎛 Ruby on Rails
+  - 🖼 Computer Vision
+  - 🛠 Desgin UI
+  - Web Technology
+  - 💬 Ask me about anything, I am happy to help;
+  - 📫 How to reach me: <ngoquytruong1999@gmail.com>;
+  - 📝[Resume](ngoquytruong1999@gmail.com)
+
+**Showcase:**
+
+```text
+⌚︎ Timezone: Asia/Ho_Chi_Minh
+
+💬 Languages: 
+Ruby                       █████████████████░░░░░░░░   69.81% 
+Objective C                ████████░░░░░░░░░░░░░░░░░░   20% 
+Java                       ██████████░░░░░░░░░░░░░░░░░      35% 
+```
+
+
+![guilyx's github stats](https://github-readme-stats.vercel.app/api?username=chuong1928&show_icons=true&hide_border=true)
