@@ -1,17 +1,6 @@
 
 ### Hello 👋, I'm [>_QuyTruong](https://www.facebook.com/NgoQuyTruongg/) 
 
-<br/>
-<a href="https://www.facebook.com/NgoQuyTruongg/">
-  <img align="left" alt="guilyx's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
-</a>
-<a href="https://www.instagram.com/nqoquytruonq/">
-  <img align="left" alt="guilyx's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
-</a>
-<a href="#">
-  <img align="left" alt="guilyx's Codingames" width="30px" src="https://image.flaticon.com/icons/svg/2010/2010522.svg" />
-</a> <br /> <br />
-
 I'm a **Graduate Student 👨🏽‍💼 [@HUSC](http://husc.hueuni.edu.vn/)** in Hue University of Science. <br />
 I'm a **Web Developer**  <br />
 i have more than 1 year experience working with ruby on rails.
