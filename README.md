@@ -31,4 +31,4 @@ Java                       ██████████░░░░░░░�
 ```
 
 
-![guilyx's github stats](https://github-readme-stats.vercel.app/api?username=chuong1928&show_icons=true&hide_border=true)
+![guilyx's github stats](https://github-readme-stats.vercel.app/api?username=NgoQuyTruong&show_icons=true&hide_border=true)
