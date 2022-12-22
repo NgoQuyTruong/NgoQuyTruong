@@ -12,9 +12,8 @@ I'm love league of legend. I've been playing League of Legends for seven years<b
 
   - 🤹🏽 Fields I enjoy the most : 
   - 🎛 Ruby on Rails
-  - 🖼 Computer Vision
   - 🛠 Desgin UI
-  - Web Technology
+  - Web Technology (HTML/CSS,JS,JQUERY,...)
   - 💬 Ask me about anything, I am happy to help;
   - 📫 How to reach me: <ngoquytruong1999@gmail.com>;
   - 📝[Resume](ngoquytruong1999@gmail.com)
@@ -25,9 +24,9 @@ I'm love league of legend. I've been playing League of Legends for seven years<b
 ⌚︎ Timezone: Asia/Ho_Chi_Minh
 
 💬 Languages: 
-Ruby                       █████████████████░░░░░░░░   69.81% 
-Objective C                ████████░░░░░░░░░░░░░░░░░░   20% 
-Java                       ██████████░░░░░░░░░░░░░░░░░      35% 
+Ruby                       ███████████████████████░░░░░░░   80.99% 
+Objective C                ████████████████░░░░░░░░░░░░░░   49.86% 
+Java                       ██████████████████░░░░░░░░░░░░   60.76% 
 ```
 
 
